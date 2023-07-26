@@ -1,7 +1,7 @@
 # Microsoft-365-website-clone
-Here is the full landing page clone of the website using html  &amp; css
+Here is the full landing page clone of the Microsoft Clone website using html  &amp; css
 
-Before using the code here is the full video ot the website 
+Before using the code here is the full video of the website 
 
 It's non-responsive .
 
